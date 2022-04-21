@@ -1,6 +1,19 @@
+body{
+    background-color: aquamarine;
+}
 h1{
     border: 2px solid black;
     padding: 30px;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: rgb(160, 101, 24);
+    color: aquamarine;
+
+}
+h2{
+   
+    border: 2px solid black;
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(160, 101, 24);
+    color: aquamarine;
 }
